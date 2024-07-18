@@ -1,0 +1,23 @@
+Java Concepts
+    • JVM
+    • Solid Principles
+    • OOPS
+        ◦ Abstraction (Abstract class & Interface)
+        ◦ Polymorphism (Overloading & Overriding)
+        ◦ Encapsulation (Class and its members)
+        ◦ Inheritance (Extends & Implements)
+        ◦ Coupling, Cohesion, Association(composition & Aggregation), Delegation
+    • Reflection
+    • Static & instance types
+    • Strings (String, CP, StringBuffer, StringBuilder, Immutables)
+    • Constructors( Default, Parameterized, Overloaded)
+    • Exception Handling( try, catch, finally, Build-in & Custom Exceptions)
+    • Immutable 
+    • Collections(Collection, List, Set, Map, HashTable, Properties)
+    • Threads(Basics & Advance)
+    • Java 8 Features (LE, FI, MR, Optional, Reduce, Streams(stream, PS), DateTime)
+    • Serialization 
+    • Files and data streams
+    • Singleton class
+    • Generics
+    • Data Structures(Stack, List, Queue, Vector, Graph, Trees, Sorting, Searching)
